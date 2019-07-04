@@ -1487,8 +1487,8 @@ x  No
 How many members does the Northern Ireland Assembly have?
   12
   60
-  90
-x  108
+x  90
+  108
 
 Who was in charge of the British fleet at the Battle of Trafalgar?
   Oliver Cromwell
