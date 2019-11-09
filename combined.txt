@@ -1,3 +1,4 @@
+% -*- coding: iso-8859-15 -*-
 What are two responsibilities that you will have as a British citizen or permanent resident of the UK?
 x  To look after the area in which you live and the environment
 x  To look after yourself and your family
@@ -2025,10 +2026,10 @@ x  True
   False
 After the Act of Union, Scotland was no longer an independent country. In what
 TWO ways was it still separate from the rest of Great Britain?
-⁰ It kept its Presbyterian Church.x
-⁰ It kept its own army.
-⁰ It kept its own educational system.x
-⁰ Hadrian's Wall was rebuilt to secure the border.
+o It kept its Presbyterian Church.x
+o It kept its own army.
+o It kept its own educational system.x
+o Hadrian's Wall was rebuilt to secure the border.
 How is the electoral register updated?
 o Eligible voters must phone their local councillor
 o Every household must request a registration form
@@ -2059,26 +2060,26 @@ o 2 million.x
 o 8 million
 o 500,000
 Queen Elizabeth II is the head of state for which TWO of the following?
-⁰ The European Union
-⁰ The United Kingdom.x
-⁰ Many Commonwealth countries.x
-⁰ Iceland
+o The European Union
+o The United Kingdom.x
+o Many Commonwealth countries.x
+o Iceland
 What is the common name for the Yeoman Warders at the Tower of London?
 o Beefeaters.x
 o Pikestaff
 o Queen's Men
 o Crown Guards
 Diwali is a religious celebration for which TWO religious groups?
-⁰ Sikhs.x
-⁰ Jews
-⁰ Hindus.x
-⁰ Muslims
+o Sikhs.x
+o Jews
+o Hindus.x
+o Muslims
 Causing trouble whilst drinking in public can result in which TWO of the
 following from the police?
-⁰ An award
-⁰ Praise
-⁰ A fine.x
-⁰ Arrest.x
+o An award
+o Praise
+o A fine.x
+o Arrest.x
 Which of the following statements is correct?
 o The jet engine and radar were developed in Britain in the 1950s.
 o The jet engine and radar were developed in Britain in the 1930s.x
@@ -2102,10 +2103,10 @@ o Evelyn Waugh
 o Graham Greene
 To apply to become a permanent resident or citizen of the UK, you will need to
 be able to do which TWO of the following?
-⁰ Speak more than one language
-⁰ Speak and read Welsh
-⁰ Speak and read English.x
-⁰ Have a good understanding of life in the UK.x
+o Speak more than one language
+o Speak and read Welsh
+o Speak and read English.x
+o Have a good understanding of life in the UK.x
 What is New Year's Eve called in Scotland?
 o Hagmanay
 o Hogmanay.x
@@ -2185,10 +2186,10 @@ o Modern English parliamentarians
 o Members of the European Parliament.x
 o Members of the English Parliament
 A poll card includes which TWO pieces of information?
-⁰ The date of the election.x
-⁰ Where the polling station or polling place is located.x
-⁰ How much tax you should pay
-⁰ Who you should vote for
+o The date of the election.x
+o Where the polling station or polling place is located.x
+o How much tax you should pay
+o Who you should vote for
 Which annual flower show in London exhibits garden designs from around the
 world?
 o Kensington
@@ -2197,10 +2198,10 @@ o Chelsea.x
 o Covent Garden
 The War of the Roses was fought by the supporters of which TWO families in
 order to decide who should be King of England?
-⁰ The House of Windsor
-⁰ The House of York.x
-⁰ The House of Lancaster.x
-⁰ The House of Tudor
+o The House of Windsor
+o The House of York.x
+o The House of Lancaster.x
+o The House of Tudor
 How are the local authorities funded?
 o Local authorities are unfunded
 o By taxation only
@@ -2290,10 +2291,10 @@ o Tennis
 o Motor racing.x
 o Horse racing
 Which TWO of the following have the right to vote?
-⁰ Adults who have been given a visa to study in the UK
-⁰ Adults who are naturalised citizens of the UK.x
-⁰ Adults who have been granted an indefinite right to remain in the UK
-⁰ UK-born adult citizens.x
+o Adults who have been given a visa to study in the UK
+o Adults who are naturalised citizens of the UK.x
+o Adults who have been granted an indefinite right to remain in the UK
+o UK-born adult citizens.x
 How often is a General Election held?
 o At least every five years.x
 o At least every four years
@@ -2395,10 +2396,10 @@ o Prince Philip Hospital, Llanelli
 o Addenbrooke's Hospital, Cambridge
 o St Thomas' Hospital, London.x
 John Petts was a Welshman famous in which of these TWO areas of art?
-⁰ Painting of horses
-⁰ Water colours
-⁰ Engraving.x
-⁰ Stained glass.x
+o Painting of horses
+o Water colours
+o Engraving.x
+o Stained glass.x
 Is the statement below TRUE or FALSE?
 Norman French influenced the development of the English language as we know it
 today.
@@ -2417,26 +2418,26 @@ Which of the following statements is true?
 o A Magistrates' Court deals with minor criminal offences.x
 o A Magistrates' Court deals with only the most serious criminal cases.
 A judiciary is responsible for which TWO of the following :
-⁰ Arresting people
-⁰ Making sure that trials are fair.x
-⁰ Interpreting the law.x
-⁰ Making the law
+o Arresting people
+o Making sure that trials are fair.x
+o Interpreting the law.x
+o Making the law
 Which of the following countries did not help to set up the EEC?
 o Luxembourg
 o Ireland.x
 o Belgium
 o Germany
 Which TWO of the following are amongst the shared goals of the Commonwealth?
-⁰ Development.x
-⁰ Democracy.x
-⁰ Discrimination
-⁰ Dependency
+o Development.x
+o Democracy.x
+o Discrimination
+o Dependency
 Which TWO events happened to the church in England following the restoration of
 Charles II?
-⁰ The Puritans grew in strength and number.
-⁰ The Church of England was restored as the official Church.x
-⁰ The Puritans and Roman Catholics were kept out of power.x
-⁰ The Church of England was suppressed.
+o The Puritans grew in strength and number.
+o The Church of England was restored as the official Church.x
+o The Puritans and Roman Catholics were kept out of power.x
+o The Church of England was suppressed.
 Which of the following is not an aim of the United Nations?
 o To promote international security
 o To promote peace
@@ -2444,10 +2445,10 @@ o To prevent war
 o To promote free trade.x
 Which TWO of the following are freedoms offered to citizens and permanent
 residents of the UK?
-⁰ Free heating for all
-⁰ Freedom of Speech.x
-⁰ Half day off work on Friday
-⁰ A right to take part in the election of a government.x
+o Free heating for all
+o Freedom of Speech.x
+o Half day off work on Friday
+o A right to take part in the election of a government.x
 The First World War ended in victory for Britain and its allies. At what exact
 time and date in 1918 did the war end officially?
 o 6am on 6 June
@@ -2579,5 +2580,504 @@ x   Friends of the Earth
 
 (The National Trust and Friends of the Earth are environmental charities.)
 
+Which flag has a diagonal red cross on a white ground?
 
+    The cross of St George, patron saint of England
+x   The cross of St Patrick, patron saint of Ireland
+    The cross of St David, patron saint of Wales
+    The cross of St Andrew, patron saint of Scotland
 
+ Which British sportsman won five consecutive gold medals at the Olympic Games in the rowing category?
+
+    Sir Chris Hoy
+    Christopher Dean
+    Bradley Wiggins
+x   Sir Steve Redgrave
+
+ What is the name of the centrepiece to the Remembrance Day service located in Whitehall, London?
+
+x   Cenotaph
+    Stonehenge
+    Grimsby
+    Scunthorpe
+
+ Who was the inventor of the World Wide Web?
+
+x   Sir Tim Berners-Lee
+    Sir Peter Mansfield
+    Sir Ian Wilmot
+    Sir Bernard Lovell
+
+What does the UK offer to its residents or citizens (choose FIVE answers)? 
+
+x    Freedom of belief and religion
+x    Freedom of speech
+     Free university tuition fees
+x    Freedom from unfair discrimination
+x    A right to a fair trial
+x    A right to join in the election of a government
+
+ When did the Wars of the Roses start?
+
+    1388
+x   1455
+    1462
+    1478
+
+ How many members does the Scottish Parliament have?
+
+    60
+    90
+    120
+x   129
+
+(There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation.)
+
+ What does the term "coalition" refer to?
+
+    If no political party wins a majority, a new election is held to vote for one of the top two parties only
+    The candidate who gets the most votes is elected
+x   If no political party wins a majority, two parties may join and govern together
+    If an MP dies or resigns, there will be a fresh election
+
+ The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
+
+x   True
+    False
+
+ What is the minimum age requirement in the UK to drink wine or beer with a meal provided you are with someone over 18?
+
+    14 years old
+    15 years old
+x   16 years old
+    17 years old
+
+ Who is the spiritual leader of the Church of England?
+
+    The Pope
+x   The Archbishop of Canterbury
+    St Augustine
+    St Columba
+
+ Civil servants cannot stand for public office:
+
+x   True
+    False
+
+ Which court deals with the most serious cases of children aged 10 to 17 in England, Wales and Northern Ireland?
+
+    The High Court
+    The Youth Court
+    The Magistrates' Court
+x    The Crown Court
+
+ What is the name of the best preserved prehistoric village in northern Europe and which origin traces back to the Stone Age?
+
+    Maiden
+x   Skara Brae
+    Stonehenge
+    Bayeux
+
+ When was the National Trust founded?
+
+    1890
+x   1895
+    1980
+    1910
+
+ After the Black Death, new social classes appeared in England, including owners of large areas of land known as:
+
+    Judiciary
+x   Gentry
+    Clans
+    Nobility
+
+ Elizabeth I was the younger daughter of which King?
+
+    James I
+    William the Great
+    Henry VII
+x   Henry VIII
+
+ Which of the following operas was written by Gilbert and Sullivan?
+
+    The Phantom of the Opera
+x   The Mikado
+    The Mousetrap
+    Cats
+
+ Where is Loch Lomond and the Trossachs National Park located?
+
+    East of Wales
+    West of Wales
+x   West of Scotland
+    East of Scotland
+
+ Who is married to the Queen of the United Kingdom?
+
+    Prince Charles, Prince of Wales
+x   Prince Philip, the Duke of Edinburgh
+    Henry VII
+    William II
+
+ By what TWO other names is the Church of England known?
+
+x   The Anglican Church
+    The Union Church
+    The Greatest Church
+x   The Episcopal Church
+
+ Who was the first British Prime Minister?
+
+    Henry Pelham
+x    Sir Robert Walpole
+    Admiral Nelson
+    Oliver Cromwell
+
+ What day does Lent start?
+
+    On Shrove Tuesday
+x    On Ash Wednesday
+    On Easter Monday
+    On Easter Sunday
+
+ How old do you need to be to apply for a free TV licence?
+
+    Over 65
+    Over 60
+    Over 70
+x    Over 75
+
+ What time do pubs usually open on Sundays in the UK?
+
+    10 am
+    11 am
+x    12 pm
+    1 pm
+
+ Which British sportswoman won two gold medals for running in the 2004 Olympic Games?
+
+    Dame Ellen MacArthur
+    Jayne Torvill
+x    Dame Kelly Holmes
+    Jessica Ennis-Hill
+
+ What percentage of the total British population is located in England alone?
+
+x    84%
+    60%
+    58%
+    79%
+
+ What was the population of the UK in 2010?
+
+    Just over 50 million
+x    Just over 62 million
+    Just under 50 million
+    Just under 60 million
+
+ Which court deals with cases involving personal injury, family matters, breaches of contract and divorce in England and Wales?
+
+    The Crown Court
+    The High Court
+x    County Courts
+    The Sheriff Court
+
+ What is the name of the building where the Scottish Parliament meet?
+
+x    Holyrood
+    Senedd
+    Westminster
+    Stormont
+
+ Which flower is associated with England?
+
+    Daffodil
+    Shamrock
+x    Rose
+    Thistle
+
+ Who was Robert Burns?
+
+    A British musician
+x    A Scottish poet
+    A Welsh scientist
+    An Irish engineer
+
+ In which period did British Film studios flourish?
+
+    1920s
+x    1930s
+    1940s
+    1950s
+
+ What is the capital city of Northern Ireland?
+
+x    Belfast
+    Dublin
+    Cork
+    Edinburgh
+
+ What name is given to the day when people play jokes on each other until midday?
+
+    Remembrance Day
+x    April's Fool Day
+    Halloween
+    Valentine's Day
+
+ Who is the fastest person to have sailed around the world single-handed?
+
+    Dame Kelly Holmes
+x    Dame Ellen MacArthur
+    Jayne Torvill
+    Bradley Wiggins
+
+ When did the First World War end?
+
+    9th of November 1918
+x    11th of November 1918
+    9th of December 1918
+    11th of December 1918
+
+ What are Welsh cakes made of?
+
+    Suet, onions and oatmeal
+x    Flour, dried fruits and spices
+    Potatoes, vegetables, Yorkshire puddings
+    Bacon, eggs, sausage, black pudding and potato bread
+
+ Where is the London Eye situated?
+
+    On the northern bank of the River Thames
+x    On the southern bank of the River Thames
+    On the northern bank of the River Lea
+    On the southern bank of the River Lea
+
+The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall.
+
+ What is the relationship between the monarch and the government?
+
+    Approve the government's decisions on government policies
+x    Advise, warn and encourage the government's decisions
+    Advise, encourage and approve the government's decisions
+    Advise and approve the government's decisions
+
+The monarch has regular meetings with the Prime Minister and can advise, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet.
+
+ The UK is a "constitutional monarchy":
+
+x    True
+    False
+
+ What do you need to apply to become a permanent resident or citizen of the UK (Choose TWO options)?
+
+    A British driving licence
+x    To be able to speak and read English
+    A British university degree
+x    A good understanding of life in the UK
+
+To apply to become a permanent resident or citizen of the UK, you will need to speak and read English and have a good understanding of life in the UK.
+
+ Which British scientist was awarded a Nobel Prize for discovering the structure of the DNA molecule?
+
+    Alan Turing
+    Sir Frank Whittle
+    Sir Christopher Cockrell
+x    Francis Crick
+
+ Who established the Church of England?
+
+    The Queen
+    The Archbishop of Canterbury
+x    Henry VIII
+    Elizabeth I
+
+To divorce his first wife, Henry VIII needed the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new church, the king, not the Pope, would have the power to appoint bishops and order how people should worship.
+
+ When does Lent take place?
+
+    40 days before Christmas
+    40 days after Christmas
+x    40 days before Easter
+    40 days after Easter
+
+The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter.
+
+ Which of the following national galleries is NOT located in London?
+
+    Tate Britain
+    The National Gallery
+    Tate Modern
+x    The National Museum
+
+The National Museum is located in Cardiff, Wales.
+
+ How much can you be fined if you watch TV but do not have a TV licence?
+
+    Up to £500
+x    Up to £1000
+    Up to £2000
+    Up to £3000
+
+You will receive a fine up to £1,000 if you watch TV but do not have a TV licence.
+
+ How old is the clock at the Houses of Parliament in London, also known as "Big Ben"?
+
+    100 years old
+x    150 years old
+    200 years old
+    250 years old
+
+Big Ben is the nickname for the great bell of the clock at the House of Parliament in London. The clock is over 150 years old and is a popular tourist attraction.
+
+ Members of the European Parliament (MEPs) are elected on the basis of:
+
+    Personal achievements
+    Instant run-off
+    First past the post system (the candidate who gets the most votes)
+x    Proportional representation
+
+Elections to the European Parliament use a system of proportional representation, where seats are allocated to each party in proportion to the total number of votes it has won.
+
+ The North Atlantic Treaty Organisation is a group of European and North American countries that was created with which TWO purposes:
+
+    Protect and promote human rights in those countries
+x    Help each other if they come under attack
+x    Maintain peace between all its members
+    Promote free trade amongst those countries
+
+NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members.
+
+ The small claims procedure is used in England and Wales for minor disputes for:
+
+    Claims of less than £15,000
+    Claims of less than £5,000
+    Claims of less than £3,500
+x    Claims of less than £10,000
+
+This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland. PLEASE be aware that in some handbooks (10th impression 2016 and previous ones) it says £5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is £10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
+
+ What name is given to the period in the 18th century when new ideas about politics, philosophy and science were developed? 
+
+x    The Enlightenment
+    The Glorious Revolution
+    The Industrial Revolution
+    Elizabethan
+
+During the 18th century, new ideas about politics, philosophy and science were developed. This is often called "the Enlightenment".
+
+ What is the meaning of â��Magna Cartaâ��?
+
+    The Big Charter
+x    The Great Charter
+    The King's Charter
+    The Small Charter
+
+The Magna Carta (which means the Great Charter). The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king's power to collect taxes or to make and change laws.
+
+ When did people learn to make bronze?
+
+    Around 3,000 years ago
+x    Around 4,000 years ago
+    Around 5,000 years ago
+    Around 2,000 years ago
+
+ When is the Jewish celebration known as Hanukkah normally celebrated? 
+
+    June or July
+    October or November
+x    November or December
+    March or April
+
+Hanukkah is in November or December and is celebrated for eight days.
+
+ What musical award is given during the Mercury Music Prize?
+
+    Best album from the UK
+x    Best album from the UK and Ireland
+    Best solo artist from the UK
+    Best solo artist the UK and Ireland
+
+The Mercury Music Prize is awarded each September for the best album from the UK and Ireland.
+
+ Who was Boudicca?
+
+x    One of the tribal leaders who fought against the Romans
+    One of the architects who built Hadrian's Wall
+    A Viking king
+    One of the tribal leaders who fought against the Vikings
+
+One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England.
+
+ Which TWO of the following water sports are popular in the UK?
+
+    Waterpolo
+x    Rowing
+x    Sailing
+    Surfing
+
+Sailing continues to be popular in the UK, reflecting its maritime heritage. Rowing is also popular, both as a leisure activity and as a competitive sport.
+
+ Which of the following statements is TRUE?
+
+    Forcing another person to marry is a civil offence
+x    Forcing another person to marry is a criminal offence
+    Forcing another person to marry is not punished in the UK
+    Forcing another person to marry is common in the UK
+
+ In the UK, what should dogs wear in public places?
+
+x    A collar with the name and address of the owner
+    A collar with the name of the dog
+    A tracking device in case they get lost
+    Clothes to avoid the cold in the winter
+
+ Where do UK residents need to register their car or motorcycle?
+
+    At the Home Office
+    At the Ministry of Transport (MOT)
+x    At the Driver and Vehicle Licensing Agency (DVLA)
+    At their Local Council
+
+If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA).
+
+ Popular social networking websites in the UK include:
+
+    Drupal and Amazon
+x    Facebook and Twitter
+    Dropbox and itunes
+    iCloud and itunes
+
+Social networking websites such as Facebook and Twitter are a popular in the UK.
+
+ According to the 2011 Census, what percentage of the population identified themselves as Muslim?
+
+    1%
+    2%
+    3%
+x    4.8%
+
+ How often are elections held for the National Assembly for Wales?
+
+x    Every four years
+    Every three years
+    Every five years
+    Every six years
+
+ Who was the British Minister after Margaret Thatcher?
+
+    Tony Blair
+    Harold Macmillan
+    Gordon Brown
+x    John Major
+
+John Major was Prime Minister after Mrs Thatcher, and helped establish the Northern Ireland peace process.
+
+ What name is given to the person appointed by local authorities to be the ceremonial leader of a particular council?
+
+    Council candidate
+x    Mayor
+    Peer
+    Magistrate
+
+Many local authorities appoint a mayor, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.
