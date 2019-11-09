@@ -1,4 +1,3 @@
-% -*- coding: iso-8859-15 -*-
 What are two responsibilities that you will have as a British citizen or permanent resident of the UK?
 x  To look after the area in which you live and the environment
 x  To look after yourself and your family
@@ -555,7 +554,7 @@ Which of the following is not a valid UK coin?
   1p
   5p
 x  25p
-  £1
+  Â£1
 
 Where is the Eden Project located?
   Dorset
@@ -1083,7 +1082,7 @@ The last battle between Britain and France was the battle of Waterloo.
 x  True
   False
 
-£100 is the highest value note in circulation in the UK.
+Â£100 is the highest value note in circulation in the UK.
   True
 x  False
 
@@ -1276,10 +1275,10 @@ x  He was a musician
   He was an actor
 
 Which of the following is not a British banknote?
-  £50
-x  £25
-  £20
-  £5
+  Â£50
+x  Â£25
+  Â£20
+  Â£5
 
 Where does the Scottish Grand National take place?
   Fife
@@ -2026,507 +2025,507 @@ x  True
   False
 After the Act of Union, Scotland was no longer an independent country. In what
 TWO ways was it still separate from the rest of Great Britain?
-o It kept its Presbyterian Church.x
-o It kept its own army.
-o It kept its own educational system.x
-o Hadrian's Wall was rebuilt to secure the border.
+oÂ It kept its Presbyterian Church.x
+oÂ It kept its own army.
+oÂ It kept its own educational system.x
+oÂ Hadrian's Wall was rebuilt to secure the border.
 How is the electoral register updated?
-o Eligible voters must phone their local councillor
-o Every household must request a registration form
-o Every household receives a phone call to enquire about eligible voter
-o Every household receives a registration form, which must be completed and
+oÂ Eligible voters must phone their local councillor
+oÂ Every household must request a registration form
+oÂ Every household receives a phone call to enquire about eligible voter
+oÂ Every household receives a registration form, which must be completed and
 returned.x
 A snack made from flour, dried fruits and spices and served either hot or cold
 is which of the following?
-o An English muffin
-o A Welsh cake.x
-o A Scottish bun
-o An Irish pie
+oÂ An English muffin
+oÂ A Welsh cake.x
+oÂ A Scottish bun
+oÂ An Irish pie
 Where does the UK Parliament sit?
-o The House of Lords
-o Downing Street
-o Westminster.x
-o Stormont
+oÂ The House of Lords
+oÂ Downing Street
+oÂ Westminster.x
+oÂ Stormont
 How many people emigrated from the UK during Victoria's reign between 1853-
 1913?
-o 500 million
-o 13 million.x
-o 2 million
-o 100,000
+oÂ 500 million
+oÂ 13 million.x
+oÂ 2 million
+oÂ 100,000
 Which of these is an accurate estimate of the number of casualties suffered by
 Britain in the First World War?
-o 10 million
-o 2 million.x
-o 8 million
-o 500,000
+oÂ 10 million
+oÂ 2 million.x
+oÂ 8 million
+oÂ 500,000
 Queen Elizabeth II is the head of state for which TWO of the following?
-o The European Union
-o The United Kingdom.x
-o Many Commonwealth countries.x
-o Iceland
+oÂ The European Union
+oÂ The United Kingdom.x
+oÂ Many Commonwealth countries.x
+oÂ Iceland
 What is the common name for the Yeoman Warders at the Tower of London?
-o Beefeaters.x
-o Pikestaff
-o Queen's Men
-o Crown Guards
+oÂ Beefeaters.x
+oÂ Pikestaff
+oÂ Queen's Men
+oÂ Crown Guards
 Diwali is a religious celebration for which TWO religious groups?
-o Sikhs.x
-o Jews
-o Hindus.x
-o Muslims
+oÂ Sikhs.x
+oÂ Jews
+oÂ Hindus.x
+oÂ Muslims
 Causing trouble whilst drinking in public can result in which TWO of the
 following from the police?
-o An award
-o Praise
-o A fine.x
-o Arrest.x
+oÂ An award
+oÂ Praise
+oÂ A fine.x
+oÂ Arrest.x
 Which of the following statements is correct?
-o The jet engine and radar were developed in Britain in the 1950s.
-o The jet engine and radar were developed in Britain in the 1930s.x
+oÂ The jet engine and radar were developed in Britain in the 1950s.
+oÂ The jet engine and radar were developed in Britain in the 1930s.x
 What happens at a polling station or polling place?
-o People take their driving test
-o The census is collected
-o Taxes are collected
-o People vote in elections.x
+oÂ People take their driving test
+oÂ The census is collected
+oÂ Taxes are collected
+oÂ People vote in elections.x
 Since which year has the UK had a fully democratic voting system.
-o 1969
-o 1918
-o 1928.x
-o 1889
+oÂ 1969
+oÂ 1918
+oÂ 1928.x
+oÂ 1889
 Which of the following statements is correct?
-o Chequers is the Prime Minister's country house.x
-o Chequers is the Prime Minister's house in London.
+oÂ Chequers is the Prime Minister's country house.x
+oÂ Chequers is the Prime Minister's house in London.
 Which British novelist created the fictional detective, Sherlock Holmes?
-o Sir Arthur Conan Doyle.x
-o Robert Louis Stevenson
-o Evelyn Waugh
-o Graham Greene
+oÂ Sir Arthur Conan Doyle.x
+oÂ Robert Louis Stevenson
+oÂ Evelyn Waugh
+oÂ Graham Greene
 To apply to become a permanent resident or citizen of the UK, you will need to
 be able to do which TWO of the following?
-o Speak more than one language
-o Speak and read Welsh
-o Speak and read English.x
-o Have a good understanding of life in the UK.x
+oÂ Speak more than one language
+oÂ Speak and read Welsh
+oÂ Speak and read English.x
+oÂ Have a good understanding of life in the UK.x
 What is New Year's Eve called in Scotland?
-o Hagmanay
-o Hogmanay.x
-o Hugmanay
-o Hopmanay
+oÂ Hagmanay
+oÂ Hogmanay.x
+oÂ Hugmanay
+oÂ Hopmanay
 The Battle of Boyne is celebrated with a bank holiday in which country?
-o Scotland
-o England
-o Northern Ireland.x
-o Wales
+oÂ Scotland
+oÂ England
+oÂ Northern Ireland.x
+oÂ Wales
 Where did the Boer War take place?
-o Turkey
-o England
-o France
-o South Africa.x
+oÂ Turkey
+oÂ England
+oÂ France
+oÂ South Africa.x
 The Chancellor of the Exchequer is responsible for which area of government
 policy?
-o Health
-o Immigration
-o Economy.x
-o Education
+oÂ Health
+oÂ Immigration
+oÂ Economy.x
+oÂ Education
 Which of the following statements is correct?
-o Colonists in North America were well-educated and interested in ideas of
+oÂ Colonists in North America were well-educated and interested in ideas of
 liberty.x
-o Colonists in North America were poorly-educated and uninterested in politics.
+oÂ Colonists in North America were poorly-educated and uninterested in politics.
 Who did Henry VIII marry after the execution of Anne Boleyn?
-o Catherine Howard
-o Jane Seymour.x
-o Anne of Cleves
-o Catherine Parr
+oÂ Catherine Howard
+oÂ Jane Seymour.x
+oÂ Anne of Cleves
+oÂ Catherine Parr
 What sport is played in the UEFA Champions League?
-o Cricket
-o Rugby
-o Tennis
-o Football.x
+oÂ Cricket
+oÂ Rugby
+oÂ Tennis
+oÂ Football.x
 Who wrote musicals such as Cats, The Phantom of the Opera, and Evita?
-o Gilbert and Sullivan
-o Sir Edward Elgar
-o Andrew Lloyd Webber.x
-o Julian Lloyd Webber
+oÂ Gilbert and Sullivan
+oÂ Sir Edward Elgar
+oÂ Andrew Lloyd Webber.x
+oÂ Julian Lloyd Webber
 Ian McEwan, Hilary Mantel and Julian Barnes have all won which literary prize?
-o The Nobel Prize in Literature
-o The Man Booker Prize.x
-o The Mercury Prize
-o The Turner Prize
+oÂ The Nobel Prize in Literature
+oÂ The Man Booker Prize.x
+oÂ The Mercury Prize
+oÂ The Turner Prize
 In Crown Court, who decides the verdict of "guilty" or "not guilty"?
-o The judge.x
-o The jury
-o The defendant
-o The barrister
+oÂ The judge.x
+oÂ The jury
+oÂ The defendant
+oÂ The barrister
 When did Julius Caesar lead the Roman invasion of Britain?
-o 65 BC
-o AD 55.x
-o AD 75
-o 55 BC
+oÂ 65 BC
+oÂ AD 55.x
+oÂ AD 75
+oÂ 55 BC
 Which of the following statements is correct?
-o The Wimbledon Championships are associated with tennis.x
-o The Wimbledon Championships are associated with athletics.
+oÂ The Wimbledon Championships are associated with tennis.x
+oÂ The Wimbledon Championships are associated with athletics.
 Which Anglo-Saxon poem tells of its hero's battles against monsters?
-o Deor
-o Waldere
-o The Fight at Finnsburh
-o Beowulf.x
+oÂ Deor
+oÂ Waldere
+oÂ The Fight at Finnsburh
+oÂ Beowulf.x
 Who became queen after the death of Edward VI?
-o Mary, Queen of Scots
-o His cousin Mary
-o His wife Mary
-o His half-sister Mary.x
+oÂ Mary, Queen of Scots
+oÂ His cousin Mary
+oÂ His wife Mary
+oÂ His half-sister Mary.x
 Which of these books did Graham Greene not write?
-o Moby Dick.x
-o The Heart of the Matter
-o The Honorary Consul
-o Brighton Rock
+oÂ Moby Dick.x
+oÂ The Heart of the Matter
+oÂ The Honorary Consul
+oÂ Brighton Rock
 What are MEPs?
-o Modern European parliamentarians
-o Modern English parliamentarians
-o Members of the European Parliament.x
-o Members of the English Parliament
+oÂ Modern European parliamentarians
+oÂ Modern English parliamentarians
+oÂ Members of the European Parliament.x
+oÂ Members of the English Parliament
 A poll card includes which TWO pieces of information?
-o The date of the election.x
-o Where the polling station or polling place is located.x
-o How much tax you should pay
-o Who you should vote for
+oÂ The date of the election.x
+oÂ Where the polling station or polling place is located.x
+oÂ How much tax you should pay
+oÂ Who you should vote for
 Which annual flower show in London exhibits garden designs from around the
 world?
-o Kensington
-o South Bank
-o Chelsea.x
-o Covent Garden
+oÂ Kensington
+oÂ South Bank
+oÂ Chelsea.x
+oÂ Covent Garden
 The War of the Roses was fought by the supporters of which TWO families in
 order to decide who should be King of England?
-o The House of Windsor
-o The House of York.x
-o The House of Lancaster.x
-o The House of Tudor
+oÂ The House of Windsor
+oÂ The House of York.x
+oÂ The House of Lancaster.x
+oÂ The House of Tudor
 How are the local authorities funded?
-o Local authorities are unfunded
-o By taxation only
-o By central government funding and by taxation.x
-o By funding from central government only
+oÂ Local authorities are unfunded
+oÂ By taxation only
+oÂ By central government funding and by taxation.x
+oÂ By funding from central government only
 Around which structure in London is the Remembrance Day service usually held?
-o The London Eye
-o Nelson's Column in Trafalgar Square
-o The Cenotaph in Whitehall.x
-o The statue of Eros in Piccadilly Circus
+oÂ The London Eye
+oÂ Nelson's Column in Trafalgar Square
+oÂ The Cenotaph in Whitehall.x
+oÂ The statue of Eros in Piccadilly Circus
 What event is commemorated on 5 November every year?
-o The Queen's birthday
-o England's World Cup victory of 1966.
-o A plot to blow up the Houses of Parliament.x
-o The end of the First World War
+oÂ The Queen's birthday
+oÂ England's World Cup victory of 1966.
+oÂ A plot to blow up the Houses of Parliament.x
+oÂ The end of the First World War
 How old was Edward VI when he died ?
-o 15.x
-o 18
-o 35
-o 56
+oÂ 15.x
+oÂ 18
+oÂ 35
+oÂ 56
 Where did people of the Bronze Age bury their dead?
-o Earth barrows
-o Round barrows.x
-o Burial mounds
-o Round burrows
+oÂ Earth barrows
+oÂ Round barrows.x
+oÂ Burial mounds
+oÂ Round burrows
 Sake Dean Mahomet opened which establishment in George Street, London in 1810?
-o Mahomet Coffee House
-o Pakistan Curry House
-o Mahomet Shampoo Parlour
-o Hindoostane Coffee House.x
+oÂ Mahomet Coffee House
+oÂ Pakistan Curry House
+oÂ Mahomet Shampoo Parlour
+oÂ Hindoostane Coffee House.x
 MPs have a duty to serve and represent which of the following groups?
-o Everyone in their constituency who voted for them
-o The House of Lords
-o Their fellow MPs
-o Everyone in their constituency.x
+oÂ Everyone in their constituency who voted for them
+oÂ The House of Lords
+oÂ Their fellow MPs
+oÂ Everyone in their constituency.x
 Which of the following is one of the Queen's important ceremonial roles?
-o To chair debates in Parliament
-o To receive foreign ambassadors and high commissioners.x
-o To write laws
-o To negotiate trade agreements with other countries
+oÂ To chair debates in Parliament
+oÂ To receive foreign ambassadors and high commissioners.x
+oÂ To write laws
+oÂ To negotiate trade agreements with other countries
 In 1649, England was declared a republic. What was it called?
-o Cromwell's Republic
-o The People's Republic
-o The Commonwealth.x
-o Great Britain
+oÂ Cromwell's Republic
+oÂ The People's Republic
+oÂ The Commonwealth.x
+oÂ Great Britain
 How often is Prime Minister's Questions held?
-o Every week while Parliament is in session.x
-o Every week
-o Every day
-o Every day while Parliament is in session
+oÂ Every week while Parliament is in session.x
+oÂ Every week
+oÂ Every day
+oÂ Every day while Parliament is in session
 Which king annexed Wales to the Crown of England with the Statute of Rhuddlan?
-o Charles I
-o Henry VIII
-o Harold
-o Edward I.x
+oÂ Charles I
+oÂ Henry VIII
+oÂ Harold
+oÂ Edward I.x
 What were The Canterbury Tales?
-o A series of poems.x
-o A story about Canterbury Cathedral
-o A book of Christian doctrine
-o A Royal Charter
+oÂ A series of poems.x
+oÂ A story about Canterbury Cathedral
+oÂ A book of Christian doctrine
+oÂ A Royal Charter
 Henry VIII has 6 wives. What was the name of his first wife?
-o Anne of Cleves
-o Anne Boleyn
-o Catherine Howard
-o Catherine of Aragon.x
+oÂ Anne of Cleves
+oÂ Anne Boleyn
+oÂ Catherine Howard
+oÂ Catherine of Aragon.x
 George Frederick Handel, the German-born composer who became a British citizen,
 wrote which of the following?
-o Peter Grimes
-o The Planets
-o Music for the Royal Fireworks.x
-o Balthazar's Feast
+oÂ Peter Grimes
+oÂ The Planets
+oÂ Music for the Royal Fireworks.x
+oÂ Balthazar's Feast
 Is the statement below TRUE or FALSE?
 Members of the House of Lords are elected by a constituency.
-o False.x
-o True
+oÂ False.x
+oÂ True
 Is the statement below TRUE or FALSE?
 The Channel Islands and the Isle of Man are part of the UK.
-o True
-o False.x
+oÂ True
+oÂ False.x
 Is the statement below TRUE or FALSE?
 By around AD 600, Anglo-Saxon kingdoms were established in Britain.
-o True.x
-o False
+oÂ True.x
+oÂ False
 Lewis Hamilton is a leading figure in which sport?
-o Squash
-o Tennis
-o Motor racing.x
-o Horse racing
+oÂ Squash
+oÂ Tennis
+oÂ Motor racing.x
+oÂ Horse racing
 Which TWO of the following have the right to vote?
-o Adults who have been given a visa to study in the UK
-o Adults who are naturalised citizens of the UK.x
-o Adults who have been granted an indefinite right to remain in the UK
-o UK-born adult citizens.x
+oÂ Adults who have been given a visa to study in the UK
+oÂ Adults who are naturalised citizens of the UK.x
+oÂ Adults who have been granted an indefinite right to remain in the UK
+oÂ UK-born adult citizens.x
 How often is a General Election held?
-o At least every five years.x
-o At least every four years
-o Every year
-o At least every two years
+oÂ At least every five years.x
+oÂ At least every four years
+oÂ Every year
+oÂ At least every two years
 Who chairs debates in the House of Commons?
-o The Foreign Secretary
-o The Speaker.x
-o The Prime Minister
-no The leader of the opposition
+oÂ The Foreign Secretary
+oÂ The Speaker.x
+oÂ The Prime Minister
+noÂ The leader of the opposition
 Charles I was unwilling to reach an agreement with Parliament. Following his
 defeat in the Civil War, what happened to him?
-o He was executed.x
-o He was excommunicated.
-o He was exonerated.
-o He was exiled.
+oÂ He was executed.x
+oÂ He was excommunicated.
+oÂ He was exonerated.
+oÂ He was exiled.
 Where were Elizabeth I's parents?
-o Henry VIII and Catherine of Aragon
-o Henry VII and Elizabeth of York
-o Henry VIII and Anne Boleyn.x
-o Henry VIII and Jane Seymour
+oÂ Henry VIII and Catherine of Aragon
+oÂ Henry VII and Elizabeth of York
+oÂ Henry VIII and Anne Boleyn.x
+oÂ Henry VIII and Jane Seymour
 The last successful foreign invasion of England was by which of the following?
-o The Romans led by Julius Caesar
-o The Vikings
-o The Romans led by Emperor Claudius
-o The Normans led by William.x
+oÂ The Romans led by Julius Caesar
+oÂ The Vikings
+oÂ The Romans led by Emperor Claudius
+oÂ The Normans led by William.x
 Which of the following statements is correct?
-o Elizabeth I came to the throne when, following a long reign, her cousin Mary
+oÂ Elizabeth I came to the throne when, following a long reign, her cousin Mary
 died.
-o Elizabeth I came to the throne when, following a short reign, her half-sister
+oÂ Elizabeth I came to the throne when, following a short reign, her half-sister
 Mary died.x
 Who is the patron saint of Scotland?
-o St Patrick
-o St David
-o St Andrew.x
-o St George
+oÂ St Patrick
+oÂ St David
+oÂ St Andrew.x
+oÂ St George
 What event in 1851 took place at the Crystal Palace in Hyde Park and showed
 goods and exhibits from Britain and across the world?
-o The Great Show
-o The Great Exhibition.x
-o The Great Event
-o The Great Occasion
+oÂ The Great Show
+oÂ The Great Exhibition.x
+oÂ The Great Event
+oÂ The Great Occasion
 Is the statement below TRUE or FALSE?
 Military training for young people is provided by The National Citizen Service.
-o True
-o False.x
+oÂ True
+oÂ False.x
 Which of these is not a Gilbert and Sullivan comic opera?
-o The Pirates of Penzance
-o The Mikado
-o HMS Pinafore
-o A Midsummer Night's Dream.x
+oÂ The Pirates of Penzance
+oÂ The Mikado
+oÂ HMS Pinafore
+oÂ A Midsummer Night's Dream.x
 Which of the following is correct?
-o Robert Burns wrote only in Scots language.
-o Robert Burns wrote in Scots, English and a combination of both.x
+oÂ Robert Burns wrote only in Scots language.
+oÂ Robert Burns wrote in Scots, English and a combination of both.x
 Which of the following statements is correct?
-o The Divine Right of Kings was the view held by many English monarchs that
+oÂ The Divine Right of Kings was the view held by many English monarchs that
 they were directly appointed by God to rule.x
-o The Divine Right of Kings was the view held by many English monarchs that
+oÂ The Divine Right of Kings was the view held by many English monarchs that
 they could seize lands belonging to the nobility as they wished.
 Which country is not represented on the Union Flag?
-o Northern Ireland
-o Scotland
-o Wales.x
-o England
+oÂ Northern Ireland
+oÂ Scotland
+oÂ Wales.x
+oÂ England
 During the reign of Henry VIII, which country of the union became formally
 united with England?
-o Ireland
-o Wales.x
-o Northern Ireland
-o Scotland
+oÂ Ireland
+oÂ Wales.x
+oÂ Northern Ireland
+oÂ Scotland
 The first people lived in Britain during which period?
-o The Bronze Age
-o The Jurassic period
-o The Stone Age.x
-o Ancient times
+oÂ The Bronze Age
+oÂ The Jurassic period
+oÂ The Stone Age.x
+oÂ Ancient times
 Who was King of England at the time of the Norman Invasion in 1066?
-o Hubert
-o Harold.x
-o Henry
-o Herbert
+oÂ Hubert
+oÂ Harold.x
+oÂ Henry
+oÂ Herbert
 Is the statement below TRUE or FALSE?
 Adult citizens of other EU states may vote in General Elections.
-o True
-o False.x
+oÂ True
+oÂ False.x
 Is the statement below TRUE or FALSE?
 The Bill of Rights confirmed the rights of Parliament and the limits of the
 king's power.
-o True.x
-o False
+oÂ True.x
+oÂ False
 The UK has what kind of monarchy?
-o Constitutional.x
-o Democratic
-o Absolute
-o Provisional
+oÂ Constitutional.x
+oÂ Democratic
+oÂ Absolute
+oÂ Provisional
 Where did Florence Nightingale establish the Nightingale School for Nurses in
 1860?
-o St James's University Hospital, Leeds
-o Prince Philip Hospital, Llanelli
-o Addenbrooke's Hospital, Cambridge
-o St Thomas' Hospital, London.x
+oÂ St James's University Hospital, Leeds
+oÂ Prince Philip Hospital, Llanelli
+oÂ Addenbrooke's Hospital, Cambridge
+oÂ St Thomas' Hospital, London.x
 John Petts was a Welshman famous in which of these TWO areas of art?
-o Painting of horses
-o Water colours
-o Engraving.x
-o Stained glass.x
+oÂ Painting of horses
+oÂ Water colours
+oÂ Engraving.x
+oÂ Stained glass.x
 Is the statement below TRUE or FALSE?
 Norman French influenced the development of the English language as we know it
 today.
-o False
-o True.x
+oÂ False
+oÂ True.x
 When was the first Union Flag created?
-o 1706
-o 1506
-o 1609
-o 1606.x
+oÂ 1706
+oÂ 1506
+oÂ 1609
+oÂ 1606.x
 Is the statement below TRUE or FALSE?
 The UK is a parliamentary democracy.
-o False
-o True.x
+oÂ False
+oÂ True.x
 Which of the following statements is true?
-o A Magistrates' Court deals with minor criminal offences.x
-o A Magistrates' Court deals with only the most serious criminal cases.
+oÂ A Magistrates' Court deals with minor criminal offences.x
+oÂ A Magistrates' Court deals with only the most serious criminal cases.
 A judiciary is responsible for which TWO of the following :
-o Arresting people
-o Making sure that trials are fair.x
-o Interpreting the law.x
-o Making the law
+oÂ Arresting people
+oÂ Making sure that trials are fair.x
+oÂ Interpreting the law.x
+oÂ Making the law
 Which of the following countries did not help to set up the EEC?
-o Luxembourg
-o Ireland.x
-o Belgium
-o Germany
+oÂ Luxembourg
+oÂ Ireland.x
+oÂ Belgium
+oÂ Germany
 Which TWO of the following are amongst the shared goals of the Commonwealth?
-o Development.x
-o Democracy.x
-o Discrimination
-o Dependency
+oÂ Development.x
+oÂ Democracy.x
+oÂ Discrimination
+oÂ Dependency
 Which TWO events happened to the church in England following the restoration of
 Charles II?
-o The Puritans grew in strength and number.
-o The Church of England was restored as the official Church.x
-o The Puritans and Roman Catholics were kept out of power.x
-o The Church of England was suppressed.
+oÂ The Puritans grew in strength and number.
+oÂ The Church of England was restored as the official Church.x
+oÂ The Puritans and Roman Catholics were kept out of power.x
+oÂ The Church of England was suppressed.
 Which of the following is not an aim of the United Nations?
-o To promote international security
-o To promote peace
-o To prevent war
-o To promote free trade.x
+oÂ To promote international security
+oÂ To promote peace
+oÂ To prevent war
+oÂ To promote free trade.x
 Which TWO of the following are freedoms offered to citizens and permanent
 residents of the UK?
-o Free heating for all
-o Freedom of Speech.x
-o Half day off work on Friday
-o A right to take part in the election of a government.x
+oÂ Free heating for all
+oÂ Freedom of Speech.x
+oÂ Half day off work on Friday
+oÂ A right to take part in the election of a government.x
 The First World War ended in victory for Britain and its allies. At what exact
 time and date in 1918 did the war end officially?
-o 6am on 6 June
-o 8am on 8 August
-o 10am on 10 October
-o 11am on 11 November.x
+oÂ 6am on 6 June
+oÂ 8am on 8 August
+oÂ 10am on 10 October
+oÂ 11am on 11 November.x
 Who did William the Conqueror defeat at the Battle of Hastings in 1066?
-o Kenneth MacAlpin
-o Boudicca
-o King Cnut
-o King Harold.x
+oÂ Kenneth MacAlpin
+oÂ Boudicca
+oÂ King Cnut
+oÂ King Harold.x
 How old do you have to be to buy alcohol in the UK?
-o 21
-o 16
-o 18.x
-o 20
+oÂ 21
+oÂ 16
+oÂ 18.x
+oÂ 20
 What is the name of the famous horse race held near Liverpool?
-o Grand National.x
-o Steeplechase
-o Grand Chase
-o Grand Derby
+oÂ Grand National.x
+oÂ Steeplechase
+oÂ Grand Chase
+oÂ Grand Derby
 William Shakespeare wrote a number of sonnets. What are sonnets?
-o Poems of 14 lines.x
-o Rhyming poems
-o Mystery plays
-o Stories for children
+oÂ Poems of 14 lines.x
+oÂ Rhyming poems
+oÂ Mystery plays
+oÂ Stories for children
 Who was James II's eldest daughter, Mary, married to?
-o She never married
-o William of Orange.x
-o The French Dauphin
-o The Duke of York
+oÂ She never married
+oÂ William of Orange.x
+oÂ The French Dauphin
+oÂ The Duke of York
 What is a Yorkshire pudding?
-o Batter cooked in the oven.x
-o Meat and potato in a pastry
-o Apple and pears with custard
-o A caramel-flavoured dessert
+oÂ Batter cooked in the oven.x
+oÂ Meat and potato in a pastry
+oÂ Apple and pears with custard
+oÂ A caramel-flavoured dessert
 What do you accept and agree to when you become a permanent resident of the UK?
-o Traditions of the UK.x
-o Protestant beliefs and values
-o The right to be tried for crimes in your country of origin
-o Catholic beliefs and values
+oÂ Traditions of the UK.x
+oÂ Protestant beliefs and values
+oÂ The right to be tried for crimes in your country of origin
+oÂ Catholic beliefs and values
 Which Catherine was executed after being accused of taking lovers by Henry
 VIII?
-o Howard.x
-o Boleyn
-o Parr
-o Of Aragon
+oÂ Howard.x
+oÂ Boleyn
+oÂ Parr
+oÂ Of Aragon
 Is the statement below TRUE or FALSE?
 Discrimination in the workplace is an example of criminal law.
-o True
-o False.x
+oÂ True
+oÂ False.x
 Which of these is not a Christmas tradition in the UK?
-o Decorating Houses and Trees
-o Giving gifts
-o Sending Cards
-o Having a Barbeque.x
+oÂ Decorating Houses and Trees
+oÂ Giving gifts
+oÂ Sending Cards
+oÂ Having a Barbeque.x
 In a Crown Court, who decides what the penalty will be, in the case of a guilty
 verdict?
-o A solicitor
-o The jury.x
-o The judge
-o A police officer
+oÂ A solicitor
+oÂ The jury.x
+oÂ The judge
+oÂ A police officer
 When were the first professional football clubs formed?
-o 17th Century
-o 20th Century
-o 18th Century
-o 19th Century.x
+oÂ 17th Century
+oÂ 20th Century
+oÂ 18th Century
+oÂ 19th Century.x
 An attempt by which group to put James II's son on the throne instead of
 George I was quickly defeated?
-o French Huguenots
-o English Puritans
-o Irish Catholics
-o Scottish Jacobites.x
+oÂ French Huguenots
+oÂ English Puritans
+oÂ Irish Catholics
+oÂ Scottish Jacobites.x
 In which city is the Scottish Parliament based?
-o Cardiff
-o Sheffield
-o Edinburgh.x
-o Glasgow
+oÂ Cardiff
+oÂ Sheffield
+oÂ Edinburgh.x
+oÂ Glasgow
 
 When did Britain become permanently separated from the continent by the Channel?
 
@@ -2914,12 +2913,12 @@ The National Museum is located in Cardiff, Wales.
 
  How much can you be fined if you watch TV but do not have a TV licence?
 
-    Up to £500
-x    Up to £1000
-    Up to £2000
-    Up to £3000
+    Up to Â£500
+x    Up to Â£1000
+    Up to Â£2000
+    Up to Â£3000
 
-You will receive a fine up to £1,000 if you watch TV but do not have a TV licence.
+You will receive a fine up to Â£1,000 if you watch TV but do not have a TV licence.
 
  How old is the clock at the Houses of Parliament in London, also known as "Big Ben"?
 
@@ -2950,12 +2949,12 @@ NATO is a group of European and North American countries that have agreed to hel
 
  The small claims procedure is used in England and Wales for minor disputes for:
 
-    Claims of less than £15,000
-    Claims of less than £5,000
-    Claims of less than £3,500
-x    Claims of less than £10,000
+    Claims of less than Â£15,000
+    Claims of less than Â£5,000
+    Claims of less than Â£3,500
+x    Claims of less than Â£10,000
 
-This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland. PLEASE be aware that in some handbooks (10th impression 2016 and previous ones) it says £5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is £10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
+This procedure is used for claims of less than Â£10,000 in England and Wales and Â£3,000 in Scotland and Northern Ireland. PLEASE be aware that in some handbooks (10th impression 2016 and previous ones) it says Â£5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is Â£10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
 
  What name is given to the period in the 18th century when new ideas about politics, philosophy and science were developed? 
 
@@ -2966,7 +2965,7 @@ x    The Enlightenment
 
 During the 18th century, new ideas about politics, philosophy and science were developed. This is often called "the Enlightenment".
 
- What is the meaning of â��Magna Cartaâ��?
+ What is the meaning of Ã¢Magna CartaÃ¢?
 
     The Big Charter
 x    The Great Charter
@@ -3081,3 +3080,71 @@ x    Mayor
     Magistrate
 
 Many local authorities appoint a mayor, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.
+
+ What is the meaning of the term 'first past the post'?
+
+x    In each constituency, the candidate who gets the most votes is elected
+    If no political party wins a majority, two parties may join and govern together
+    If an MP dies or resigns, there will be a fresh election
+    The Speaker will be chosen by other MPs in a secret ballot
+
+ Who defeated Emperor Napoleon at the Battle of Waterloo in 1815?
+
+x    The Duke of Wellington
+    Admiral Nelson
+    Richard Arkwright
+    The Duke of Edinburgh
+
+ Which court deals with the MOST serious cases in Scotland, such as murder?
+
+    The Magistrates' Court
+    The Sheriff Court
+    The Crown Court
+x    The High Court
+
+ What was the symbol of the House of Tudor?
+
+x    A red rose with a white rose inside it
+    A red rose
+    A white rose
+    A white rose with a red rose inside it
+
+The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.
+
+ Which famous economist developed ideas about economics during the 18th century and which are still referred to today?
+
+    Robert Dudley Baxter
+    David Hume
+x    Adam Smith
+    Henry George
+
+During the 18th century, new ideas about politics, philosophy and science were developed. This is often called 'the Enlightenment'. Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today.
+
+ What time do usually pubs open during the week?
+
+    9 am
+    10 am
+x    11 am
+    12 pm
+
+Pubs are usually open during the day from 11.00 am (12 noon on Sundays).
+
+ In which TWO movie categories does Britain continue to be particularly strong at?
+
+x    Special effects movies
+    Action movies
+    Thrillers
+x    Animation movies
+
+Britain continues to be particularly strong in special effects and animation movies.
+
+ What British artist was a portrait painter who often painted people in country or garden scenarios?
+
+x    Thomas Gainsborough
+    David Allan
+    Joseph Turner
+    John Constable
+
+Thomas Gainsborough (1727-88) was a portrait painter who often painted people in country or garden scenery.
+
+
