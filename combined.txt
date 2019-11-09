@@ -554,7 +554,7 @@ Which of the following is not a valid UK coin?
   1p
   5p
 x  25p
-  Â£1
+  Â�1
 
 Where is the Eden Project located?
   Dorset
@@ -1082,7 +1082,7 @@ The last battle between Britain and France was the battle of Waterloo.
 x  True
   False
 
-Â£100 is the highest value note in circulation in the UK.
+Â�100 is the highest value note in circulation in the UK.
   True
 x  False
 
@@ -1275,10 +1275,10 @@ x  He was a musician
   He was an actor
 
 Which of the following is not a British banknote?
-  Â£50
-x  Â£25
-  Â£20
-  Â£5
+  Â�50
+x  Â�25
+  Â�20
+  Â�5
 
 Where does the Scottish Grand National take place?
   Fife
@@ -2913,12 +2913,12 @@ The National Museum is located in Cardiff, Wales.
 
  How much can you be fined if you watch TV but do not have a TV licence?
 
-    Up to Â£500
-x    Up to Â£1000
-    Up to Â£2000
-    Up to Â£3000
+    Up to Â�500
+x    Up to Â�1000
+    Up to Â�2000
+    Up to Â�3000
 
-You will receive a fine up to Â£1,000 if you watch TV but do not have a TV licence.
+You will receive a fine up to Â�1,000 if you watch TV but do not have a TV licence.
 
  How old is the clock at the Houses of Parliament in London, also known as "Big Ben"?
 
@@ -2949,12 +2949,12 @@ NATO is a group of European and North American countries that have agreed to hel
 
  The small claims procedure is used in England and Wales for minor disputes for:
 
-    Claims of less than Â£15,000
-    Claims of less than Â£5,000
-    Claims of less than Â£3,500
-x    Claims of less than Â£10,000
+    Claims of less than Â�15,000
+    Claims of less than Â�5,000
+    Claims of less than Â�3,500
+x    Claims of less than Â�10,000
 
-This procedure is used for claims of less than Â£10,000 in England and Wales and Â£3,000 in Scotland and Northern Ireland. PLEASE be aware that in some handbooks (10th impression 2016 and previous ones) it says Â£5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is Â£10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
+This procedure is used for claims of less than Â�10,000 in England and Wales and Â�3,000 in Scotland and Northern Ireland. PLEASE be aware that in some handbooks (10th impression 2016 and previous ones) it says Â�5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is Â�10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
 
  What name is given to the period in the 18th century when new ideas about politics, philosophy and science were developed? 
 
@@ -3285,4 +3285,400 @@ Which TWO of the following charities work with homeless people?
 x    Shelter
 x    Crisis
     Oxfam
+
+
+
+Members of the Welsh Assembly (AMs) are elected every four years on the basis of:
+
+x    Proportional representation
+    Personal achievements
+    Instant run-off
+    First past the post system (the candidate who gets the most votes)
+
+
+
+What is the Commonwealth?
+
+x    An association of countries that support each other and work together towards shared goals in democracy and development
+    An organisation responsible for the protection and promotion of human rights in its member countries
+    An association of countries that promotes international peace and security
+    A group of European and North American countries that have agreed to help each other if they come under attack
+
+The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.
+
+
+
+Which famous architect designed St Paul's Cathedral after it was destroyed by a fire in 1666?
+
+    Sir Christopher Wren
+    Isaac Newton
+    Robert Burns
+    Isambard Kingdom Brunel
+
+In 1666, a great fire destroyed much of the city of London, including many churches and St Paul's Cathedral. London was rebuilt with a new St Paul's, which was designed by a famous architect, Sir Christopher Wren.
+
+
+
+Which of the following countries belongs to the Commonwealth?
+
+    Morocco
+    Algeria
+x    Mozambique
+    Mali
+
+
+
+Who has to pay national insurance contributions in the UK?
+
+    Everybody under the age of 65
+x    Almost everybody who is in paid work
+    Everybody under the age of 70
+    People with earnings over �18,000 per year
+
+Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions.
+
+
+
+Where is the centrepiece to the Remembrance Day service known as Cenotaph located?
+
+    Cardiff, Wales
+x    Whitehall, London
+    Hounslow Heath, London
+    Piccadilly Circus, London
+
+The Cenotaph, the Centrepiece to the Remembrance Day service, is located in Whitehall, London.
+
+
+
+Which of the following statements is TRUE?
+
+    The English language has no dialects
+x    The English language has many accents and dialects
+    Gaelic is spoken in North Wales
+    In Northern Ireland people speak French
+
+
+
+What do Ian McEwan, Hilary Mantel and Julian Barnes have in common?
+
+    They are British sports players
+x    They were awarded with the Man Booker Prize for Fiction
+    They won a Nobel Prize in Literature
+    They were awarded with the Mercury Music Prize
+
+
+
+In Northern Ireland members of the Legislative Assembly (MLAs) are elected on the basis of:
+
+x    Proportional representation
+    Personal achievements
+    First past the post system
+    Instant run-off
+
+
+
+How can MPs be contacted (choose TWO options)?
+
+x    By letter
+    By going to your local council and asking for an appointment
+x    By phoning their constituency office
+    Through facebook
+
+Incorrect
+
+You can contact MPs by letter or telephone at their constituency office, or at their office in the House of Commons: The House of Commons, Westminster, London SW1A OAA, telephone 0207729 3000.
+
+
+
+What did the'Bill of Rights' confirm in 1689?
+
+    Women's right to vote
+x    The rights of Parliament and the limits of the king's power
+    The supreme power of the king
+    The freedom of speech
+
+
+
+Who designed the Clifton Suspension Bridge located over the Avon George?
+
+    Sir Norman Foster
+x    Isambard Kingdom Brunel
+    Richard Arkwright
+    Robert Adam
+
+
+
+What was the estimated population of the British Empire during the Victorian period?
+
+    More than 300 million people
+x    More than 400 million people
+    More than 450 million people
+    More than 500 million people
+
+During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.
+
+
+
+Which of the following countries was NOT part of the Allied Powers during the First World War?
+
+    France
+    Japan
+    Serbia
+x    Bulgaria
+
+
+
+How many times have the Olympic Games been hosted in the UK?
+
+    Two
+x    Three
+    Four
+    Six
+
+
+
+When were films first shown publicly in the UK?
+
+    In 1887
+x    In 1896
+    In 1897
+    In 1886
+
+
+
+What is the name of the building where the Welsh Assembly members meet?
+
+    Westminster
+    Stormont
+    Holyrood
+x    Senedd
+
+
+
+Which Act abolished slavery throughout the British Empire in 1833?
+
+    The Freedom Act
+    The Habeas Corpus Act
+x    The Emancipation Act
+    The Slavery Act
+
+
+
+How long does Diwali last for? 
+
+    A weekend
+    40 days
+x    Five days
+    A week
+
+Diwali normally falls in October or November and lasts for five days.
+
+
+
+Who became King of Britain when Queen Anne died in 1714?
+
+    James II
+    George II
+x    George I
+    Charles I
+
+When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne's nearest Protestant relative.
+
+
+
+What was the population of the UK in 2005?
+
+    Just under 50 million
+x    Just under 60 million
+    Just over 50 million
+    Just under 62 million
+
+
+
+When did the 'Habeas Corpus Act' become law?
+
+x    In 1679
+    In 1669
+    In 1689
+    In 1709
+
+
+
+During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the glass manufacturers come from?
+
+    Germany
+x    Italy
+    Holland
+    France
+
+
+
+Where can people facing domestic violence get help from?
+
+    The NHS
+x    The Citizens Advise Bureau
+    The Human Rights Commission
+    The RSPB
+
+
+
+People might be taken to court if they owe money to someone
+
+x    True
+    False
+
+
+Who was the first Archbishop of Canterbury?
+
+    St Patrick
+    St Columba
+x    St Augustine
+    St Peter
+
+
+
+How many members does a jury have in England, Wales and Northern Ireland?
+
+x    12
+    14
+    15
+    18
+
+In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.
+
+
+
+What is tested with a driving test (choose TWO options)?
+
+    Your medical condition
+x    Your knowledge
+x    Your practical skills
+    Your physical condition
+
+
+
+What is the role of the Speaker?
+
+x    To keep order during political debates to make sure the rules are followed
+    To point out what they see as the government's failures and weaknesses
+    To control important public appointments
+    To challenge the government and put forward alternative policies
+
+
+
+Which of the following statements is FALSE regarding Youth Courts?
+
+    The parents or carers of the young person being judged are expected to attend the hearing
+    Members of the public are not allowed in them
+x    They are used for trials of young people aged 10 to 18
+    The name or photographs of the accused young person cannot be published in newspapers or used by the media
+
+They are used for trials of young people aged 10 to 17.
+
+
+
+Which TWO films were directed by David Lean?
+
+x    Brief Encounter
+    The 39 Steps
+x    Lawrence of Arabia
+    Chariots of Fire
+
+David Lean directed Brief Encounter (1945) and Lawrence of Arabia (1962).
+
+
+
+Which of the following venues is located in Glasgow?
+
+    The O2
+    Wembley Stadium
+x    The SECC
+    Buckingham Palace
+
+
+
+How many British casualties were recorded during the first day of the British attack of the Somme in July 1916 during the First World War?
+
+x    60,000
+    70,000
+    30,000
+    50,000
+
+The British attack of the Somme in July 1916, resulted in about 60,000 British casualties on the first day alone.
+
+
+
+The Welsh dragon on the Welsh flag does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England:
+
+x    True
+    False
+
+
+
+What was the population of the UK in 1801?
+
+    5 million
+x    8 million
+    10 million
+    12 million
+
+
+
+What is the main function of the Council of Europe?
+
+x    To protect and promote human rights
+    To promote international trade relationships
+    To maintain international peace
+    To recommend action when there are international crises and threats to peace
+
+The Council of Europe is responsible for the protection and promotion of human rights in its member countries.
+
+
+
+Which Scottish physician and researcher co-discovered the insulin used to treat diabetes?
+
+    Francis Crick
+    Sir Robert Watson-Watt
+x    John McLeod
+    John Logie Baird
+
+The Scottish physician and researcher John Macleod was the co-discoverer of insulin, used to treat diabetes.
+
+
+
+Who was voted the greatest Briton of all time in 2002?
+
+    Clement Attlee
+x    Winston Churchill
+    Anthony Eden
+    Harold Wilson
+
+Winston Churchill in 2002 was voted the greatest Briton of all time by the public.
+
+
+
+Which TWO of the following responsibilities will you have as a permanent resident or citizen of the UK?
+
+x    To respect and obey the law
+    To go to church on Sundays
+x    To look after the area in which you live and the environment
+    To do the military service
+
+
+
+Which TWO of the following social laws were liberalised during the 'Swinging Sixties'?
+
+x    The law of abortion
+x    The law of divorce
+    The law of immigration
+    The law of adoption
+
+
+
+Who was the mother of Elizabeth I?
+
+    Jane Seymour
+    Anne of Cleves
+    Catherine of Aragon
+x    Anne Boleyn
 
